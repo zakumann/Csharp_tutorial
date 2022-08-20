@@ -1,0 +1,8 @@
+C:\Users\samue\source\repos\Sample1\Sample1\obj\Debug\Sample1.csproj.AssemblyReference.cache
+C:\Users\samue\source\repos\Sample1\Sample1\obj\Debug\Sample1.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\source\repos\Sample1\Sample1\obj\Debug\Sample1.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\Sample1\Sample1\bin\Debug\Sample1.exe.config
+C:\Users\samue\source\repos\Sample1\Sample1\bin\Debug\Sample1.exe
+C:\Users\samue\source\repos\Sample1\Sample1\bin\Debug\Sample1.pdb
+C:\Users\samue\source\repos\Sample1\Sample1\obj\Debug\Sample1.exe
+C:\Users\samue\source\repos\Sample1\Sample1\obj\Debug\Sample1.pdb
