@@ -17,12 +17,12 @@ public class GridSystem
 
         gridObjectArray = new GridObject[width, height];
 
-        for(int x = 0; x < width; x++)
+        for (int x = 0; x < width; x++)
         {
             for (int z = 0; z < height; z++)
             {
                 GridPosition gridPosition = new GridPosition(x, z);
-                gridObjectArray[x,z] = new GridObject(this, gridPosition);
+                gridObjectArray[x, z] = new GridObject(this, gridPosition);
             }
         }
     }
@@ -59,4 +59,5 @@ public class GridSystem
     {
         return gridObjectArray[gridPosition.x, gridPosition.z];
     }
+
 }
