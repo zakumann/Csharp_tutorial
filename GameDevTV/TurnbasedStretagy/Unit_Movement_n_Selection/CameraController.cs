@@ -20,7 +20,6 @@ public class CameraController : MonoBehaviour
         targetFollowOffset = cinemachineTransposer.m_FollowOffset;
     }
 
-
     private void Update()
     {
         HandleMovement();
@@ -53,6 +52,7 @@ public class CameraController : MonoBehaviour
         Vector3 moveVector = transform.forward * inputMoveDir.z + transform.right * inputMoveDir.x;
         transform.position += moveVector * moveSpeed * Time.deltaTime;
     }
+
     private void HandleRotation()
     {
         Vector3 rotationVector = new Vector3(0, 0, 0);
